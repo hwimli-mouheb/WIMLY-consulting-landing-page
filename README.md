@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+This project is a landing page for the WIMLY Consulting company.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
